@@ -10,11 +10,10 @@ Este proyecto implementa un analizador léxico y sintáctico utilizando ANTLR4 y
 
 ##  Instalación
 
-1. Clonar el repositorio:
+1. Clonar el repositorio: preferentemente antes crear una carpeta en el escritorio para encontrar mas facilmente los archivos.
 
 ```bash
-git clone https://github.com/tuusuario/tu-legajo.git
-cd tu-legajo
+git clone https://github.com/ZaidaLaguna/52033.git
 ```
 
 2. Instalar las dependencias:
@@ -43,3 +42,5 @@ El programa mostrará:
 - Árbol sintáctico
 - Código JavaScript traducido
 - Resultado de la ejecución
+  
++Aclaración: Asegurarse, a la hora de ejecutar el programa, de estar en la carpeta "analizador" ya que de no ser así no se ejecutará el programa.
